@@ -176,6 +176,9 @@
         height: 100%;
         object-fit: cover;
     }
+    .pgheading{
+        margin-top: 400px;
+    }
 }
 
 .page-header {
